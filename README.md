@@ -1,7 +1,7 @@
 # Götterdämmerung II 3D-printer
 ===============================
 
-This design is made available under the under the Creative Commons Attribution-ShareAlike CC BY-SA license (https://creativecommons.org/licenses/by-sa/4.0/)
+![GD2](http://www.timeexpander.com/wordpress/wp-content/uploads/testprint1.jpg)
 
 This is the second iteration of the Götterdämmerung. The following improvements have been made:
 - Core XY'ish layout. 
@@ -26,6 +26,10 @@ the combination of 12mm steel axis and linear bearings ensures a stable platform
 The design scales in X/Y/Z without changes to any printed parts.
 
 Please note that there are no build instructions or tutorial at this point. I'll probably do a write up, once I start building another one :)
+
+This design is made available under the under the Creative Commons Attribution-ShareAlike CC BY-SA license (https://creativecommons.org/licenses/by-sa/4.0/)
+
+![License](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
 
 Hans Jørgen Grimstad
 www.TimeExpander.com
