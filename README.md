@@ -1,5 +1,4 @@
 # Götterdämmerung II 3D-printer
-===============================
 
 ![GD2](http://www.timeexpander.com/wordpress/wp-content/uploads/testprint1.jpg)
 
