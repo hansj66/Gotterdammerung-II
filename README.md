@@ -1,7 +1,10 @@
 # Götterdämmerung II 3D-printer
 ===============================
-This is the second iteration of the Götterdämmerung. The following improvements have been made
-- Core XY layout. 
+
+This design is made available under the under the Creative Commons Attribution-ShareAlike CC BY-SA license (https://creativecommons.org/licenses/by-sa/4.0/)
+
+This is the second iteration of the Götterdämmerung. The following improvements have been made:
+- Core XY'ish layout. 
 - Dual 24V power. 
 - Improved Z stage.
 - Geared stepper extruder, using M2 type filament drive.
