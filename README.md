@@ -26,6 +26,16 @@ The design scales in X/Y/Z without changes to any printed parts.
 
 Please note that there are no build instructions or tutorial at this point. I'll probably do a write up, once I start building another one :)
 
+Other stuff that has been printed on this printer:
+
+Dante bust (29 x 30 x 26 cm). 13 hours print with 0.8mm nozzle, 0.3mm layer height
+
+![Dante](http://www.timeexpander.com/wordpress/wp-content/uploads/dante-590x355.jpg)
+
+Strandbeest ( 65 x 50 x 45 cm). Theo Jansen linkage, but with parameters based on output from my own genetic algorithm). 80+ hours printing time.
+
+![Strandbeest](http://www.timeexpander.com/wordpress/wp-content/uploads/beest-590x364.jpg)
+
 This design is made available under the under the Creative Commons Attribution-ShareAlike CC BY-SA license (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ![License](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
