@@ -34,7 +34,7 @@ Dante bust (29 x 30 x 26 cm). 13 hours print with 0.8mm nozzle, 0.3mm layer heig
 
 Strandbeest ( 65 x 50 x 45 cm). Theo Jansen linkage, but with parameters based on output from my own genetic algorithm). 80+ hours printing time.
 
-![Strandbeest](http://www.timeexpander.com/wordpress/wp-content/uploads/beest-590x364.jpg)
+![Strandbeest](http://www.timeexpander.com/wordpress/wp-content/uploads/Interior.jpg)
 
 This design is made available under the under the Creative Commons Attribution-ShareAlike CC BY-SA license (https://creativecommons.org/licenses/by-sa/4.0/)
 
