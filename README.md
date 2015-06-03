@@ -24,7 +24,7 @@ The printer frame is made of 40x40 mm aluminium extrusions and it is extremely r
 the combination of 12mm steel axis and linear bearings ensures a stable platform.
 The design scales in X/Y/Z without changes to any printed parts.
 
-Please note that there are no build instructions or tutorial at this point. I'll probably do a write up, once I start building another one :)
+Build instructions (work in progress)  can be found on the wiki pages: https://github.com/hansj66/Gotterdammerung-II/wiki
 
 Other stuff that has been printed on this printer:
 
