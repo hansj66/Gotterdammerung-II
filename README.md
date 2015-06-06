@@ -36,9 +36,9 @@ Strandbeest ( 80 x 50 x 45 cm). Theo Jansen linkage, but with parameters based o
 
 ![Strandbeest](http://www.timeexpander.com/wordpress/wp-content/uploads/Interior.jpg)
 
-This design is made available under the under the Creative Commons Attribution-ShareAlike CC BY-SA license (https://creativecommons.org/licenses/by-sa/4.0/)
+This design is made available under the under the Creative Commons Attribution-ShareAlike CC BY-NC-SA license (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-![License](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
+![License](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
 
 Hans Jørgen Grimstad
 www.TimeExpander.com
