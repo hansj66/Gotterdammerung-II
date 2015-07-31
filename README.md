@@ -28,6 +28,10 @@ Build instructions (work in progress)  can be found on the wiki pages: https://g
 
 Other stuff that has been printed on this printer:
 
+AT-ST. This is a 62 cm tall model (http://www.thingiverse.com/thing:24451). It is printed with 0,6-1,2mm nozzle and 250 micron layer height. 
+
+![AT-ST](http://www.timeexpander.com/wordpress/wp-content/uploads/atst1.jpg)
+
 Dante bust (29 x 30 x 26 cm). 13 hours print with 0.8mm nozzle, 0.3mm layer height
 
 ![Dante](http://www.timeexpander.com/wordpress/wp-content/uploads/dante-590x355.jpg)
