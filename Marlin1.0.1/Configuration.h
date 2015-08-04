@@ -129,7 +129,7 @@
 #define HEATER_0_MAXTEMP 275
 #define HEATER_1_MAXTEMP 275
 #define HEATER_2_MAXTEMP 275
-#define BED_MAXTEMP 150
+#define BED_MAXTEMP 60
 
 // If your bed has low resistance e.g. .6 ohm and throws the fuse you can duty cycle it to reduce the
 // average current. The value should be an integer and the heat bed will be turned on for 1 interval of
@@ -143,7 +143,7 @@
 // PID settings:
 // Comment the following line to disable PID and enable bang-bang.
 #define PIDTEMP
-#define BANG_MAX 255 // limits current to nozzle while in bang-bang mode; 255=full current
+#define BANG_MAX 200 // limits current to nozzle while in bang-bang mode; 255=full current
 #define PID_MAX BANG_MAX // limits current to nozzle while PID is active (see PID_FUNCTIONAL_RANGE below); 255=full current
 #ifdef PIDTEMP
   //#define PID_DEBUG // Sends debug data to the serial port.
@@ -189,7 +189,7 @@
 // all forms of bed control obey this (PID, bang-bang, bang-bang with hysteresis)
 // setting this to anything other than 255 enables a form of PWM to the bed just like HEATER_BED_DUTY_CYCLE_DIVIDER did,
 // so you shouldn't use it unless you are OK with PWM on your bed.  (see the comment on enabling PIDTEMPBED)
-#define MAX_BED_POWER 255 // limits duty cycle to bed; 255=full current
+#define MAX_BED_POWER 128 // limits duty cycle to bed; 255=full current
 
 #ifdef PIDTEMPBED
 //120v 250W silicone heater into 4mm borosilicate (MendelMax 1.5+)
@@ -474,7 +474,9 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 
 // default settings
 
-#define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,6400,475}  // M8 leadscrew. geared stepper 1/8 microstepping
+//#define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,6400,475}  // M8 leadscrew. geared stepper 1/8 microstepping. 200 steps pr rotation
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {160,160,3315.2,475}  // M8 leadscrew. geared stepper 1/8 microstepping. 17HS15-1684S-PG5
+
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   {78.7402,78.7402,400,475}  // 2mm pitch leadscrew
 //#define DEFAULT_MAX_FEEDRATE          {120, 120, 2, 120}    // (mm/sec)
 #define DEFAULT_MAX_FEEDRATE          {150, 150, 2, 150}    // (mm/sec)
