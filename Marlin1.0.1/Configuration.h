@@ -475,7 +475,8 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 // default settings
 
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,6400,475}  // M8 leadscrew. geared stepper 1/8 microstepping. 200 steps pr rotation
-#define DEFAULT_AXIS_STEPS_PER_UNIT   {160,160,3315.2,475}  // M8 leadscrew. geared stepper 1/8 microstepping. 17HS15-1684S-PG5
+//#define DEFAULT_AXIS_STEPS_PER_UNIT   {160,160,3315.2,475}  // M8 leadscrew. geared stepper 1/8 microstepping. 17HS15-1684S-PG5
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {160,160,518,475}  // M8 leadscrew. geared stepper 1/8 microstepping. 17HS15-1684S-PG5
 
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   {78.7402,78.7402,400,475}  // 2mm pitch leadscrew
 //#define DEFAULT_MAX_FEEDRATE          {120, 120, 2, 120}    // (mm/sec)
