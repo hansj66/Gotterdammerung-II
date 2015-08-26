@@ -30,6 +30,9 @@ Other stuff that has been printed on this printer:
 
 AT-ST. This is a 62 cm tall model (http://www.thingiverse.com/thing:24451). It is printed with 0,6-1,2mm nozzle and 250 micron layer height. 
 
+![margo's Dog](http://www.timeexpander.com/wordpress/wp-content/uploads/dog0_final.jpg)
+Model from Bold machines. Scaled to approximately 25x20x14 cm in size.
+
 ![AT-ST](http://www.timeexpander.com/wordpress/wp-content/uploads/atst1.jpg)
 
 Dante bust (29 x 30 x 26 cm). 13 hours print with 0.8mm nozzle, 0.3mm layer height
