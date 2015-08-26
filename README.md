@@ -28,10 +28,10 @@ Build instructions (work in progress)  can be found on the wiki pages: https://g
 
 Other stuff that has been printed on this printer:
 
-AT-ST. This is a 62 cm tall model (http://www.thingiverse.com/thing:24451). It is printed with 0,6-1,2mm nozzle and 250 micron layer height. 
-
-![margo's Dog](http://www.timeexpander.com/wordpress/wp-content/uploads/dog0_final.jpg)
 Model from Bold machines. Scaled to approximately 25x20x14 cm in size.
+![Margo's Dog](http://www.timeexpander.com/wordpress/wp-content/uploads/dog0_final.jpg)
+
+AT-ST. This is a 62 cm tall model (http://www.thingiverse.com/thing:24451). It is printed with 0,6-1,2mm nozzle and 250 micron layer height. 
 
 ![AT-ST](http://www.timeexpander.com/wordpress/wp-content/uploads/atst1.jpg)
 
