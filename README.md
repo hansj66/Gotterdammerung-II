@@ -31,17 +31,15 @@ Other stuff that has been printed on this printer:
 Model from Bold machines. Scaled to approximately 25x20x14 cm in size.
 ![Margo's Dog](http://www.timeexpander.com/wordpress/wp-content/uploads/dog0_final.jpg)
 
-AT-ST. This is a 62 cm tall model (http://www.thingiverse.com/thing:24451). It is printed with 0,6-1,2mm nozzle and 250 micron layer height. 
-
-![AT-ST](http://www.timeexpander.com/wordpress/wp-content/uploads/atst1.jpg)
-
 Dante bust (29 x 30 x 26 cm). 13 hours print with 0.8mm nozzle, 0.3mm layer height
 
 ![Dante](http://www.timeexpander.com/wordpress/wp-content/uploads/dante-590x355.jpg)
 
-Strandbeest ( 80 x 50 x 45 cm). Theo Jansen linkage, but with parameters based on output from my own genetic algorithm). 80+ hours printing time.
+Strandbeest inspired robots. Theo Jansen linkage, but with parameters based on output from my own genetic algorithm). 80+ hours printing time.
 
-![Strandbeest](http://www.timeexpander.com/wordpress/wp-content/uploads/Interior.jpg)
+![City Beest](http://www.timeexpander.com/wordpress/wp-content/uploads/interior_small.jpg)
+
+![CityBeest mk II](http://www.timeexpander.com/wordpress/wp-content/uploads/CB-mk-ii-a.jpg)
 
 This design is made available under the under the Creative Commons Attribution-ShareAlike CC BY-NC-SA license (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
